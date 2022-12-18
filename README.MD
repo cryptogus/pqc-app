@@ -77,9 +77,11 @@ File Location - pqc-app/app/chat.pro
 Qt creator's Projects tab - run tab - "Run as a root user" check   
 Now you can run the program
 
-===
-기초 틀 - https://github.com/cryptogus/network-library-gilgil   
+=========   
+# 기초 틀
+https://github.com/cryptogus/network-library-gilgil   
 https://github.com/cryptogus/KeySoon-TCP-TLS
+
 # Qt creator 사용
 TCP 로 상속 받고 PQC class를 만들어서 쏘면 PQC 통신이라 하는데
 
