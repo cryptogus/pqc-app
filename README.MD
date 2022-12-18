@@ -77,7 +77,8 @@ File Location - pqc-app/app/chat.pro
 Qt creator's Projects tab - run tab - "Run as a root user" check   
 Now you can run the program
 
-=========   
+============================
+
 # 기초 틀
 https://github.com/cryptogus/network-library-gilgil   
 https://github.com/cryptogus/KeySoon-TCP-TLS
