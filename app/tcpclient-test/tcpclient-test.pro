@@ -5,7 +5,7 @@ CONFIG -= qt
 INCLUDEPATH += ../../src \
                ../../include \
                ../../oqs/include
-DESTDIR=../../bin
+DESTDIR=../../bin # exe file in bin directory
 SOURCES += \
 	../../src/tcpclient.cpp \
 	../../src/tcpsession.cpp \
